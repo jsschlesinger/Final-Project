@@ -68,4 +68,4 @@
      - Metric: system.process.cpu.total.pct
      - Threshold: 0.5 in last 5 minutes
      - Vulnerability Mitigated: Triggers a memory dump if stored information is generated
-     - Reliability: Not very reliable, can generate frequent false positives
+     - Reliability: Not very reliable, can generate frequent false positives 
